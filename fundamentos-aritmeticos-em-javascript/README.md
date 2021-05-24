@@ -1,4 +1,4 @@
-# Introdução a Programação com JavaScript
+# Fundamentos aritméticos em Javascript
 
 ## Desafio 1 
 
